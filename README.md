@@ -97,14 +97,14 @@ Depending on the value of the parameter, the script outputs the following:
 
 ## Part 6. **GoAccess**
 
-There is a report how to use the GoAccess utility to get the same information as in [Part 5](#part-5-monitoring)
+Here is a report how to use the GoAccess utility to get the same information as in [Part 5](#part-5-monitoring)
 
 The opening the web interface of the utility on the local machine is presented.
 
 
 ## Part 7. **Prometheus** and **Grafana**
 
-There is a report how to:
+Here is a report how to:
 ##### Install and configure **Prometheus** and **Grafana** in virtual machine
 ##### Access the **Prometheus** and **Grafana** web interfaces from a local machine
 
@@ -119,7 +119,7 @@ There is a report how to:
 
 ## Part 8. A ready-made dashboard
 
-There is a report how to:
+Here is a report how to:
 ##### Download the ready-made dashboard *Node Exporter Quickstart and Dashboard* from **Grafana Labs** official website.
 
 ##### Run the same tests as in [Part 7](#part-7-prometheus-and-grafana)
